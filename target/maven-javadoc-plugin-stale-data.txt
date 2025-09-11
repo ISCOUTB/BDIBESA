@@ -2,14 +2,14 @@
 @options
 @packages
 -classpath
-'C:/Users/jairo/.m2/repository/io/github/iscoutb/kernel-besa/3.5.1/kernel-besa-3.5.1.jar;C:/Users/jairo/.m2/repository/io/github/iscoutb/rational-besa/3.5/rational-besa-3.5.jar'
+'C:/Users/jairo/Proyectos/simulador/BDIBESA/../KernelBESA/target/kernel-besa-3.6.0.jar;C:/Users/jairo/Proyectos/simulador/BDIBESA/../RationalBESA/target/rational-besa-3.6.0.jar'
 -encoding
 'UTF-8'
 -protected
 -source
 '21'
 -sourcepath
-'C:/Users/jairo/Proyectos/simulador/BDIBESA/src;C:/Users/jairo/Proyectos/simulador/BDIBESA/target/generated-sources/annotations'
+'C:/Users/jairo/Proyectos/simulador/BDIBESA/src/main/java;C:/Users/jairo/Proyectos/simulador/BDIBESA/target/generated-sources/annotations'
 -Xdoclint:none
 -author
 -bottom
@@ -21,11 +21,11 @@
 -docencoding
 'UTF-8'
 -doctitle
-'BDIBESA 3.5 API'
+'BDIBESA 3.6.0 API'
 -use
 -version
 -windowtitle
-'BDIBESA 3.5 API'
+'BDIBESA 3.6.0 API'
 BESA.BDI.AgentStructuralModel.Agent
 BESA.BDI.AgentStructuralModel.Agent.Builder
 BESA.BDI.AgentStructuralModel
@@ -33,28 +33,28 @@ BESA.BDI.AgentStructuralModel.Functions
 BESA.BDI.DBIDecisionMachine.Data
 BESA.BDI.DBIDecisionMachine
 BESA.BDI.DBIDecisionMachine.Timer
-C:\Users\jairo\.m2\repository\io\github\iscoutb\kernel-besa\3.5.1\kernel-besa-3.5.1.jar = 1757475731940
-C:\Users\jairo\.m2\repository\io\github\iscoutb\rational-besa\3.5\rational-besa-3.5.jar = 1757476997859
-C:\Users\jairo\Proyectos\simulador\BDIBESA\src = 1757476823852
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\generated-sources\annotations = 1757477001169
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\allclasses-index.html = 1757477005408
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\allpackages-index.html = 1757477005411
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\copy.svg = 1757477005458
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\element-list = 1757477005217
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\help-doc.html = 1757477005451
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\index-all.html = 1757477005441
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\index.html = 1757477005391
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\link.svg = 1757477005460
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\member-search-index.js = 1757477005417
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\module-search-index.js = 1757477005412
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\overview-summary.html = 1757477005446
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\overview-tree.html = 1757477005387
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\package-search-index.js = 1757477005414
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\script.js = 1757477005456
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\search-page.js = 1757477005465
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\search.html = 1757477005443
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\search.js = 1757477005462
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\serialized-form.html = 1757477005287
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\stylesheet.css = 1757477005454
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\tag-search-index.js = 1757477005418
-C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\type-search-index.js = 1757477005415
+C:\Users\jairo\Proyectos\simulador\BDIBESA\..\KernelBESA\target\kernel-besa-3.6.0.jar = 1757555043652
+C:\Users\jairo\Proyectos\simulador\BDIBESA\..\RationalBESA\target\rational-besa-3.6.0.jar = 1757555879161
+C:\Users\jairo\Proyectos\simulador\BDIBESA\src\main\java = 1757556039825
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\generated-sources\annotations = 1757556114049
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\allclasses-index.html = 1757556117961
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\allpackages-index.html = 1757556117965
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\copy.svg = 1757556118007
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\element-list = 1757556117790
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\help-doc.html = 1757556118003
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\index-all.html = 1757556117993
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\index.html = 1757556117946
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\link.svg = 1757556118009
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\member-search-index.js = 1757556117970
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\module-search-index.js = 1757556117967
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\overview-summary.html = 1757556117998
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\overview-tree.html = 1757556117943
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\package-search-index.js = 1757556117968
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\script.js = 1757556118006
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\search-page.js = 1757556118012
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\search.html = 1757556117996
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\search.js = 1757556118011
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\serialized-form.html = 1757556117859
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\stylesheet.css = 1757556118005
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\tag-search-index.js = 1757556117971
+C:\Users\jairo\Proyectos\simulador\BDIBESA\target\apidocs\type-search-index.js = 1757556117969
